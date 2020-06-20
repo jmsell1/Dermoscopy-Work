@@ -1,6 +1,5 @@
 #Literature Review
 
-
 ## Paper 1
 
 - DESCRIPTION COMES HERE
@@ -9,6 +8,4 @@
 
 - IMPORTANT POINT
 - ANOTHER IMPORTANT POINT
-
-This is a test
 
