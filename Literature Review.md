@@ -5,7 +5,7 @@
 - By using handheld and/or digital dermoscopy, evaluating and detecting skin cancers such as melanoma can become much easier
 - The purpose of this study was to evaluate any color errors in the images due to different lighting conditions or camera settings
 
-![](Images/TestSetup.png)
+!["Caption goes here"](./Images/TestSetup.png)
 
 - Above, the test setup used in this experiment.
   - Two adjustable LED lights are used for illumination of the chart.
