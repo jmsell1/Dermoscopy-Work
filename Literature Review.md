@@ -13,3 +13,8 @@
 - Found that all cameras have some level of error when on the "automatic" setting, but this can be eliminated by adjusting the camera manually or through image post-production
 - These steps can greatly increase image quality, and make it much easier to analyze
 
+
+
+### Classification of the Clinical Images for Benign and Malignant Cutaneous Tumors Using a Deep Learning Algorithm
+
+- 
