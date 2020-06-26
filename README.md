@@ -1,3 +1,3 @@
 # Dermoscopy-Work
 
-### Jacob's work during the summer of 2020 at MSK
+### Documenting Jacob's work at MSK during the summer of 2020
