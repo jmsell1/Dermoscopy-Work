@@ -19,6 +19,8 @@
 
 - Deep learning was used to classify images of 12 different skin diseases
 
+  - basal cell carcinoma, squamous cell carcinoma, intraepithelial carcinoma, actinic keratosis, seborrheic keratosis, malignant melanoma, melanocytic nevus, lentigo, pyogenic granuloma, hemangioma, dermatofibroma, and wart
+
 - Additional images with greater variation were needed to improve performance and/or accuracy
 
   !["Caption goes here"](./Images/Tumors.png)
