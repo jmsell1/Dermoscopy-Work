@@ -51,4 +51,11 @@
 
 
 
-### Article 4
+### Artificial Intelligence in Dermatology: A Primer
+
+- AI is growing much more popular, since it usually produces results that are more accurate and reliable than those from human dermatologists
+- Deep learning can be applied to an artificial neural network to have it "self-learn" a topic
+  - Can improve patient care and emphasize visual analysis
+- Multiple studies have reported dermatologist-level classification of many different types of images
+
+!["Caption goes here"](/Users/jacob/Library/Application Support/typora-user-images/image-20200702132502281.png)
