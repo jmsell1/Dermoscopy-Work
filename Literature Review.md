@@ -38,7 +38,7 @@
 ### Dermoscopy Image Analysis: Overview and Future Directions
 
 - Brief overview of image analysis
-  - Segmentation, feature extraction, and classification
+  - Three main aspects - segmentation, feature extraction, and classification
 - Clinical exmainations have limited/unreliable accuracy
   - Makes it difficult to analyze melanoma and/or other skin cancers
 - Infrared imaging, multispectral imaging, and confocal microscopy all provide solutions to this problem
@@ -70,6 +70,7 @@
   - They are not publicy available
   - One way to solve this would be to have every study use the same benchmark database
 - Up to this point, AI has been consistently equal to humans in terms of ability to analyze images
+  
   - Will almost certainly become more advanced in the future
 
 
