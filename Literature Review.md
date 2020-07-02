@@ -74,4 +74,22 @@
 
 
 
-### Article 5
+### Machine Learning in Dermatology: Current Applications, Opportunities, and Limitations
+
+- The usage of machine learning in the medical field has the potential to gain a human-like intelligence in dermatology
+  - Thanks to "large datasets (e.g., electronic medical records and image databases), faster computing, and cheaper data storage"
+- Currently, there are five different applications for ML
+  - Disease classification with clinical images
+  - disease classification with dermapathology images
+  - Assessment of skin diseases with personal/mobile applications and devices
+  - Large-sclae epidemiology research
+  - Precision medicine
+    - Machines can perform tasks that most humans cannot
+- Still multiple limitations of ML
+  - Many variables that need to be accounted for
+
+!["Caption goes here"](./Images/MLinAI.png)
+
+- Through the use of CNN, ML can "increase accessibility of skin cancer screenings and streamline the workflow of dermatologists"
+- By harnessing this technology, it will become much easier to regulate and optimize technology, as well as benefiting patients
+
