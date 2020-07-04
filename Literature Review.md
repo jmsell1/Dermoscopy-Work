@@ -91,6 +91,26 @@
 
 !["Caption goes here"](./Images/MLinAI.png)
 
-- Through the use of CNN, ML can "increase accessibility of skin cancer screenings and streamline the workflow of dermatologists"
+- Through the use of CNNs, ML can "increase accessibility of skin cancer screenings and streamline the workflow of dermatologists"
 - By harnessing this technology, it will become much easier to regulate and optimize technology, as well as benefiting patients
 
+
+
+### Man against machine reloaded: performance of a market-approved convolutional neural network in classifying a broad spectrum of skin lesions in comparison with 96 dermatologists working under less artificial conditions
+
+- Studies that are able to effectively compare the abilities of AI to dermatologists are "lacking"
+- 100 cases of skin cancers and lesions were used and analyzed
+- The results of the CNNs (Convolutional Neural Network) were almost always equal to that of the human researchers
+  - Humans may still be the first choice of many studies, but AI will most likely surpass them in the future
+- Many manual systems have limitations that can be overcome through the use of CNNs or ML
+- Most ML programs are designed to only analyze an individual image, while scientiosts are trained to look at multiple variables
+  - E.g. patient’s risk profile, anamnestic data, or lesion evolution
+
+!["Caption goes here"](./Images/MelanomaProbability.png)
+
+- Shows AI's analysis of each different type of image
+  - Dermatologists usually needed more information, as stated above, to make the same predictions
+
+
+
+### Article 7
