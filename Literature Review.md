@@ -131,4 +131,23 @@
 
 
 
-### Article 8
+### Melanoma recognition by a deep learning convolutional neural network - Performance in different melanoma subtypes and localisations
+
+- Aimed to "investigate the diagnostic performance of a CNN" with different groups and subtypes of melanoma
+- A market version of a CNN was used on six image sets
+  - Each set had 30 malignant and 100 benign lesions
+- Malignant melanoma accounts for the highest mortality rates od all skin cancers
+  - Analyzing and diagnosing cases can help advance the medical field a lot
+- "The increasing application of artificial intelligence and machine learning in areas of healthcare and medicine has attracted a great deal of research interest in recent decades"
+- CNNs havce recently proven a dermatologist-level performance and capability in relatively difficult to diagnose cases
+- Provides data by comparing sensitivity, specificity, and "receiver operating characteristics-area" of a CNN across all six image sets
+  - More images/subtypes = more variation
+
+!["Caption goes here"](./Images/CorrectAnalysis.png)
+
+- Above, the different lesions randomly selected from each of the images sets
+- The CNN got the majority of the images correctly analyzed
+  - No false negatives
+- As expected, the CNN showed the highest performance on the set for which the most images were available
+  - Allowed it to "learn" more about that set
+
