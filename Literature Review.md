@@ -108,9 +108,27 @@
 
 !["Caption goes here"](./Images/MelanomaProbability.png)
 
-- Shows AI's analysis of each different type of image
+- Image above shows AI's prediction/analysis of each different type of image
   - Dermatologists usually needed more information, as stated above, to make the same predictions
 
 
 
-### Article 7
+### Dermatologist-level classification of skin cancer with deep neural networks
+
+- Skin cancer is primarily diagnosed visually
+  - Can be very tedious and/or unreliable
+- By automating this process, identifying cancers such as melanoma can become much easier
+- Trained a CNN with thousands of images to recognize over 2,000 different diseases
+- By using such a large population, the CNN can achieve similar results as those from a visual examination
+- There are maby factors that may benefit or inhibit the programs ability to analyze images
+  - Zoom, angle, lighting, etc.
+- Deep Learning algorithms have been shown to surpass human capabilities is visual tasks
+  - Can be applied to aspects of dermoscopy
+
+!["Caption goes here"](./Images/Diseases.png)
+
+- Above, a schematic illustration showing how the different diseases that were analyzed in this study are related\
+
+
+
+### Article 8
