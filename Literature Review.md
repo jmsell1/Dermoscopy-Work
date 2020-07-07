@@ -151,3 +151,32 @@
 - As expected, the CNN showed the highest performance on the set for which the most images were available
   - Allowed it to "learn" more about that set
 
+
+
+### Deep Learning for Dermatologists: Part II. Current Applications
+
+- Due to an increase in larger datasets, more advanced computer hardware, and other advancements, AI "has recently contrbuted to dramatic progress in medicine"
+- Part 1 of this article offered an introduction to deep learning, as well as how it can be used/applied
+- Augmented Intelligence (AuI) is an alterantive term for AI to describe how computers can assist and improve upon human decision making
+- "Deep learning’s potential to enhance the practice of dermatology has been widely discussed with applications ranging from image classification to discovering novel risk factors for non-melanoma skin cancers"
+- The majority of advances in eramtology have used an algorithm known as a Neural Network (NN), which can take input data and process it into an output prediciton
+  - For instance, diagnosing a skin disease from a clinical photo, or highlighting regions in a pathology slide that may contain tumors
+- The predictions that NN's make can be evaluated for performance/accuracy
+  - The algorithm can then be improved upon using that information
+- This cycle is repeated until the NN is accurate enough to be used for more genral use
+- Some applications of AI for the future are:
+  - Classification and Differentation
+    - Classifying images of pigmented and non-pigmented skin
+    - Identifying epidermal and melnocytic lesions
+    - Distiguinsuing squamous cell carcinomas
+  - Dermatopathology
+    - Identifying mitotic cells within detected tumor regions (Diagnostic accuracy of 83% was reported)
+    - Identifying areas of a slide with the highest density of mitotic figures
+    - "Reduce the need for... immunohistochemical stains for mitosis"
+
+
+
+### Article 10
+
+- 
+
