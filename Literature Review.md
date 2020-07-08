@@ -176,7 +176,22 @@
 
 
 
-### Article 10
+### A deep learning system for differential diagnosis of skin diseases
 
-- 
+- Because of a global shortage of dermatologists, many skin exmainations have to be performed by doctors whose results may not be accurate and/or reliable
+  - The usage of ML and AI in dermatology can make diagnoses much easier and more reliable
 
+- This study used 16, 114 clinical images, and trained a DLS (Deep Learning System) to distinguish between 26 common skin conditions
+- The DLS was able to match the humans, having results that were "non-inferior to six other dermatologists and superior to six primary care physicians and six nurse practitioners"
+- To add to the shortage of dermatoligts, the price of a consultation is consoistently rising
+  - Allowing people to diagnose a skin condition with a computer without having to go to the doctor would make this process much easier
+- While results have varoed depending on the conditions of the experiment, the majorioty of studies reported that the DLS had capabilites equal to, or superior than that of the dermatologists
+
+![](Images/Process.png)
+
+- Above, the process that the researchers used to train and valifdate the DLS
+  - Allowed it to read an image, and figure out what skin condition it displayed through a series of set criteria
+
+
+
+### Article 11
