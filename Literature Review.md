@@ -194,4 +194,22 @@
 
 
 
-### Article 11
+### Skin lesion classification using ensembles of multi-resolution EfficientNets with meta data 
+
+- Images with different resolutions can pose an issue since the computer has to be able to read them, no matter the size, resolution, angle, lighting, etc.
+- In order to have the largest variation and highest accuracy, more images can be used to increase reliability
+- The dataset where the images were taken from also had information regarding the patients' age, anatomical site, and sex
+  - This can be used to visualize any connections or relationships between skin diseases, nd one of these criteria
+
+![](Images/Cropping.png)
+
+- The researchers developed the program to detect the relevant area of the image, and rcrop out the background, which is not needed for analysis
+  - This allows the computer to focus on a smaller area, but a more relevant one
+- The program also automatically resized the images while maintaining the aspect ratio
+- Task 2 was to use the meta data with a NN to try and connect any results with age, gender, or anatomical site
+- The CNN used in the experiment heavily relied on EfficientNets to structure the results
+  - Can compare different strategies and decide which is the most reliable/accurate
+
+
+
+### Article 12
