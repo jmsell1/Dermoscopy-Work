@@ -212,4 +212,25 @@
 
 
 
-### Article 12
+### Skin Lesion Segmentation with Improved Convolutional Neural Network
+
+- Skin cancer has become much more comman in recent years, and the medical industry has had to adapt as a result
+- By using a fully convolutional network (FCN), there is no need for pre or post processing of skin images
+  - Enables more precison detection and analysis of images
+- "Since melanoma is known to be the most lethal skin cancer," its recent increase in cases has become a cause for concern
+- The conventional method for diagnosing such diseases is a visual examination
+  - Can be slow, tedious, and/or inaccurate
+- Computers are able to make the same subjective decisions without the many years of training that dermatologists go through
+- The FCN structure "is not affected by disturbing factors such as hair, ruler markers, indistinct boundaries, and illumination problems"
+  - Makes it completely compatible with almost any image
+- Though many of these issues can be solves just as easily using pre-processing programs, that methodology creates a heavy workload for the computer
+
+![](Images/Issues.png)
+
+- Some issues that may be found in dermoscopic images
+  - Hair, markers, different zoom/angle/lighting, color, etc.
+- The FCN is able to recognize and ignore these issues, and be able to analuyze just the lesion that the image is focusing on
+
+
+
+### Article 13
