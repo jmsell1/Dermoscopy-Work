@@ -28,9 +28,9 @@
 - Any abnormal characteristic(s) of a malignancy were learned and used to classify it
 
 - AI system showed superior capability and performance that the dermatologists in the diagnosis
-  
+
   - Only true for two of the sample datasets
-  
+
 - Another method is the use of "binary classification" which was also equal to or better than the abilities of the scientists who were participating in the study
 
 
@@ -64,13 +64,17 @@
   !["Caption goes here"](./Images/Primer.png)
 
 - One major challenge to AI implementation is the wide variety of variables
+
   - Imaging hardware/software, image quality, zoom, focus, lighting
   - Can alter the precision of the AI's analysis
+
 - It is impossible to compare the performances of multiple deep learning models
+
   - They are not publicy available
   - One way to solve this would be to have every study use the same benchmark database
+
 - Up to this point, AI has been consistently equal to humans in terms of ability to analyze images
-  
+
   - Will almost certainly become more advanced in the future
 
 
@@ -227,10 +231,30 @@
 
 ![](Images/Issues.png)
 
-- Some issues that may be found in dermoscopic images
+- Above, some issues that may be found in dermoscopic images
   - Hair, markers, different zoom/angle/lighting, color, etc.
 - The FCN is able to recognize and ignore these issues, and be able to analuyze just the lesion that the image is focusing on
 
 
 
-### Article 13
+### Augmented Intelligence Dermatology: Deep Neural Networks Empower Medical Professionals in Diagnosing Skin Cancer and Predicting Treatment Options for 134 Skin Disorders
+
+- Previous efforts of DL algorithms in dermatology have only covered a small range of skin diseases/disorders
+
+  - Despite this, they were very precise (for the most part)
+
+- Using 220,680 different images from multiple online datasets, this AI program is able to recognize and diagnose at least 134 skin disorders
+
+  - The images spanned 174 diseases, however, some were unable to be learned by the DL algorithm
+
+- While CNN's have recently been very successful in specific tasks, this DL program is able to do a variety of tasks
+
+  - "The algorithm could accurately predict malignancy, suggest primary treatment options, render multi-class classification... and improve the performance of medical professionals"
+
+- This study usied CNN architecture, but modified it to their preferences/requierments
+
+- Using two different datasets, the algorithm was able to achieve results that simulated a real clinical practice, "where clinicians are required to differentiate malignancy from several types of other skin diseases"
+
+- The performance and accuracy of the model was compared to 47 medical professionals made up of 21 board-certified dermatologists and 26 dermatology residents, using a random selection of the images used in creating the algorithm
+
+  - "The algorithm showed the similar performance as that of the dermatology residents but slightly lower than those of the [certified] dermatologists"
