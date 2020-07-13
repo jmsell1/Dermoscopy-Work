@@ -258,3 +258,37 @@
 - The performance and accuracy of the model was compared to 47 medical professionals made up of 21 board-certified dermatologists and 26 dermatology residents, using a random selection of the images used in creating the algorithm
 
   - "The algorithm showed the similar performance as that of the dermatology residents but slightly lower than those of the [certified] dermatologists"
+
+
+
+### Reflectance Confocal Microscopy of Skin In Vivo: From Bench to Bedside
+
+- "Reflectance confocal microscopy (RCM) imaging of skin was granted codes for reimbursement by the US Centers for Medicare and Medicaid Services"
+  - Can be combined with dermoscopic examination(s) to analyze images, and determine whether a further examination such as a biopsy is required
+- RCM's sucess also allows future ideas similar to this become more popular, usable, and efficient
+- Early detection of many skin cancers can be very difficult if the diagnosis is reliant solely on a visual examination
+  - Can be affected by human error, unlike computers/AI
+- Many dermatologists prefer to rather be "safe than sorry," resulting in millions of unnecessary biopsies every year
+  - Using a much more efficient and accurate RCM program reduces the possibility and/or capacity for human error, and creates results that are much more reliable
+- Can also greatly reduce the cost of an examination, since many "can be performed directly on the patient, in real-time, at the bedside, and likely at reduced (or at least justifiable) cost"
+- Sample of 100 lesions had an average specificity of 79%
+  - Other studies reported evidence with an average accuracy of up to 84%
+
+![](Images/ExampleLesion.png)
+
+- Above, an example of a case in which the RCM was able to correclty analuyze and diagnose the lesion, which was on the patient's cheek
+  - It had been present and unchanged for over a year, and would have remained unnoticed had a visul examination been used instead
+
+
+
+### Results of the 2016 International Skin Imaging Collaboration *ISBI Challenge*: Comparison of the accuracy of computer algorithms to dermatologists for the diagnosis of melanoma from dermoscopic images
+
+- Used a cross-sectional study of 100 randomly selected dermoscopic images, and compared the results of a computer algorthms to those of a human dermatologist
+- Unfortunately, "The dataset lacked the full spectrum of skin lesions encountered in clinical practice, particularly banal lesions"
+  - Can impact the study later if the researchers want to increase the number of diseases that the program can recognize
+- As with the majority of the other studies, "Deep learning computer vision systems classified melanoma dermoscopy images with accuracy that exceeded some but not all dermatologists"
+- Early diagnosis of skin cancer, particulary melanoma is still very challenging, due to how tedious it can be
+- While using computers to automatically analyze images may not be a perfect solution, it can improve upon a process that is going to continue advancing in the future anyway
+- Implementng one of the systems cxan not only make the idagnosis much easier, it can also take a load off of the dermatologists who would have had to perform a visual examination otherwise
+  - The ideal program is one which anyone is able to use on their own, without the need to come to a medical clinic
+
