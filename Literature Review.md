@@ -1,9 +1,9 @@
 # Literature Review
 
-[!["Image Quality Assessment of Digital Image Capturing Devices for Melanoma Detection"](./Papers/Image Quality Assessment of Digital Image Capturing Devices for Melanoma Detection.png)](Documents/Papers/Image%20Quality%20Assessment%20of%20Digital%20Image%20Capturing%20Devices%20for%20Melanoma%20Detection.pdf)
+[!["Image Quality Assessment of Digital Image Capturing Devices for Melanoma Detection"](./Images/Paper_Headers/ImageQualityAssessment.png)](Documents/Papers/Image%20Quality%20Assessment%20of%20Digital%20Image%20Capturing%20Devices%20for%20Melanoma%20Detection.pdf)
 
-- Images/Paper_Headers/ImageQualityAssessment
 - By using handheld and/or digital dermoscopy, evaluating and detecting skin cancers such as melanoma can become much easier
+
 - The purpose of this study was to evaluate any color errors in the images due to different lighting conditions or camera settings
 
 !["Caption goes here"](./Images/TestSetup.png)
