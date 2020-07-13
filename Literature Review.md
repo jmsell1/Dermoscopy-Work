@@ -15,7 +15,7 @@
 
 
 
-### Classification of the Clinical Images for Benign and Malignant Cutaneous Tumors Using a Deep Learning Algorithm
+![](Papers/Classification of the Clinical Images for Benign and Malignant Cutaneous Tumors Using a Deep Learning Algorithm.png)
 
 - Deep learning was used to classify images of 12 different skin diseases
 
@@ -35,7 +35,7 @@
 
 
 
-### Dermoscopy Image Analysis: Overview and Future Directions
+![](Papers/Dermoscopy Image Analysis Overview and Future Directions.png)
 
 - Brief overview of image analysis
   - Three main aspects - segmentation, feature extraction, and classification
@@ -51,7 +51,7 @@
 
 
 
-### Artificial Intelligence in Dermatology: A Primer
+![](Papers/Artificial Intelligence in Dermatology A Primer.png)
 
 - AI is growing much more popular, since it usually produces results that are more accurate and reliable than those from human dermatologists
 
@@ -79,7 +79,7 @@
 
 
 
-### Machine Learning in Dermatology: Current Applications, Opportunities, and Limitations
+![](Papers/Machine Learning in Dermatology Current Applications, Opportunities, and Limitations.png)
 
 - The usage of machine learning in the medical field has the potential to gain a human-like intelligence in dermatology
   - Thanks to "large datasets (e.g., electronic medical records and image databases), faster computing, and cheaper data storage"
@@ -100,7 +100,7 @@
 
 
 
-### Man against machine reloaded: performance of a market-approved convolutional neural network in classifying a broad spectrum of skin lesions in comparison with 96 dermatologists working under less artificial conditions
+![](Papers/Man against machine reloaded  performance of a market approved convolutional neural network in classifying a broad spectrum of skin lesions in comparison with 96 dermatologists working under less artificial conditions.png)
 
 - Studies that are able to effectively compare the abilities of AI to dermatologists are "lacking"
 - 100 cases of skin cancers and lesions were used and analyzed
@@ -117,7 +117,7 @@
 
 
 
-### Dermatologist-level classification of skin cancer with deep neural networks
+![](Papers/Dermatologist-level classification of skin cancer with deep neural networks.png)
 
 - Skin cancer is primarily diagnosed visually
   - Can be very tedious and/or unreliable
@@ -135,7 +135,7 @@
 
 
 
-### Melanoma recognition by a deep learning convolutional neural network - Performance in different melanoma subtypes and localisations
+![](Papers/Melanoma recognition by a deep learning convolutional neural network - Performance in different melanoma subtypes and localisations.png)
 
 - Aimed to "investigate the diagnostic performance of a CNN" with different groups and subtypes of melanoma
 - A market version of a CNN was used on six image sets
@@ -157,7 +157,7 @@
 
 
 
-### Deep Learning for Dermatologists: Part II. Current Applications
+![](Papers/Deep Learning for Dermatologists Part II. Current Applications.png)
 
 - Due to an increase in larger datasets, more advanced computer hardware, and other advancements, AI "has recently contrbuted to dramatic progress in medicine"
 - Part 1 of this article offered an introduction to deep learning, as well as how it can be used/applied
@@ -180,7 +180,7 @@
 
 
 
-### A deep learning system for differential diagnosis of skin diseases
+![](Papers/A deep learning system for differential diagnosis of skin diseases.png)
 
 - Because of a global shortage of dermatologists, many skin exmainations have to be performed by doctors whose results may not be accurate and/or reliable
   - The usage of ML and AI in dermatology can make diagnoses much easier and more reliable
@@ -198,7 +198,7 @@
 
 
 
-### Skin lesion classification using ensembles of multi-resolution EfficientNets with meta data 
+![](Papers/Skin lesion classification using ensembles of multi-resolution EfficientNets with meta data.png)
 
 - Images with different resolutions can pose an issue since the computer has to be able to read them, no matter the size, resolution, angle, lighting, etc.
 - In order to have the largest variation and highest accuracy, more images can be used to increase reliability
@@ -216,7 +216,7 @@
 
 
 
-### Skin Lesion Segmentation with Improved Convolutional Neural Network
+![](Papers/Skin Lesion Segmentation with Improved Convolutional Neural Network.png)
 
 - Skin cancer has become much more comman in recent years, and the medical industry has had to adapt as a result
 - By using a fully convolutional network (FCN), there is no need for pre or post processing of skin images
@@ -237,7 +237,7 @@
 
 
 
-### Augmented Intelligence Dermatology: Deep Neural Networks Empower Medical Professionals in Diagnosing Skin Cancer and Predicting Treatment Options for 134 Skin Disorders
+![](Papers/Augmented Intelligence Dermatology Deep Neural Networks Empower Medical Professionals in Diagnosing Skin Cancer and Predicting Treatment Options for 134 Skin Disorders.png)
 
 - Previous efforts of DL algorithms in dermatology have only covered a small range of skin diseases/disorders
 
@@ -261,7 +261,7 @@
 
 
 
-### Reflectance Confocal Microscopy of Skin In Vivo: From Bench to Bedside
+![](Papers/Reflectance Confocal Microscopy of Skin In Vivo From Bench to Bedside.png)
 
 - "Reflectance confocal microscopy (RCM) imaging of skin was granted codes for reimbursement by the US Centers for Medicare and Medicaid Services"
   - Can be combined with dermoscopic examination(s) to analyze images, and determine whether a further examination such as a biopsy is required
@@ -281,7 +281,7 @@
 
 
 
-### Results of the 2016 International Skin Imaging Collaboration *ISBI Challenge*: Comparison of the accuracy of computer algorithms to dermatologists for the diagnosis of melanoma from dermoscopic images
+![](Papers/Results of the 2016 International Skin Imaging Collaboration ISBI Challenge Comparison of the accuracy of computer algorithms to dermatologists for the diagnosis of melanoma from dermoscopic images.png)
 
 - Used a cross-sectional study of 100 randomly selected dermoscopic images, and compared the results of a computer algorthms to those of a human dermatologist
 - Unfortunately, "The dataset lacked the full spectrum of skin lesions encountered in clinical practice, particularly banal lesions"
