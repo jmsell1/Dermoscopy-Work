@@ -86,7 +86,7 @@
   - Thanks to "large datasets (e.g., electronic medical records and image databases), faster computing, and cheaper data storage"
 - Currently, there are five different applications for ML
   - Disease classification with clinical images
-  - disease classification with dermapathology images
+  - Disease classification with dermapathology images
   - Assessment of skin diseases with personal/mobile applications and devices
   - Large-sclae epidemiology research
   - Precision medicine
@@ -219,7 +219,7 @@
 
 ![](./Papers/Skin Lesion Segmentation with Improved Convolutional Neural Network.png)
 
-- Skin cancer has become much more comman in recent years, and the medical industry has had to adapt as a result
+- Skin cancer has become much more common in recent years, and the medical industry has had to adapt as a result
 - By using a fully convolutional network (FCN), there is no need for pre or post processing of skin images
   - Enables more precison detection and analysis of images
 - "Since melanoma is known to be the most lethal skin cancer," its recent increase in cases has become a cause for concern
